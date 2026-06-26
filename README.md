@@ -25,7 +25,6 @@ This project is a content-based movie recommendation system built using Python a
 - Seaborn
 - Scikit-learn
 - WordCloud
-- SciPy
 
 ---
 
