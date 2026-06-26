@@ -1,4 +1,4 @@
-# Movie Recommendation System using Rotten Tomatoes Dataset
+# Movie Recommendation System using Machine Learning
 
 ## Project Overview
 This project is a content-based movie recommendation system built using Python and Machine Learning techniques. The system recommends similar movies based on movie reviews, genres, directors, runtime, and audience scores from the Rotten Tomatoes dataset.
